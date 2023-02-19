@@ -1,0 +1,44 @@
+{
+  "Students": [
+    {
+      "name": "Ankush",
+      "image": "https://via.placeholder.com/350",
+      "code": "fw14_003",
+      "batch": "Web - 14",
+      "vote": 7,
+      "id": 3
+    },
+    {
+      "name": "sdd",
+      "image": "deded",
+      "code": "sd",
+      "batch": "1",
+      "vote": 15,
+      "id": 945
+    },
+    {
+      "name": "sdd",
+      "image": "deded",
+      "code": "sd",
+      "batch": "1",
+      "vote": 4,
+      "id": 730
+    },
+    {
+      "name": "rct211",
+      "image": "ass",
+      "code": "asa",
+      "batch": "a",
+      "vote": 3,
+      "id": 1676737422918
+    },
+    {
+      "name": "bahubali",
+      "image": "qs",
+      "code": "as",
+      "batch": "a",
+      "vote": 16,
+      "id": 1676737656466
+    }
+  ]
+}
